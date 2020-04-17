@@ -1,0 +1,1642 @@
+********************TRACK INFO********************
+Artist: Mario
+Title: Let Me Love You
+Copyright: Tvt Music Ltd/EMI Music Pub Ltd/Zomba Music Pub. Ltd
+Writers: Smith/Storch/Houff
+
+
+********************TITLE********************
+PageType: Title
+StartTime: 0.46 
+EndTime: 9.42 
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 9.42 
+EndTime: 31.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm ah
+
+[12.17] Mmm [13.17]
+[13.21] ah [13.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm yeah
+
+[14.5] Mmm [15.5]
+[15.79] yeah [16.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm.... yeah yeah
+
+[17.17] Mmm.... [19.25]
+[19.42] yeah [19.67]
+[19.92] yeah [20.83]
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm ah
+
+[22.46] Mmm [23.38]
+[23.46] ah [23.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm yeah
+
+[24.71] Mmm [25.92]
+[26.0] yeah [26.38]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Mmm.... yeah yeah
+
+[27.29] Mmm.... [29.38]
+[30.04] yeah [30.42]
+[30.42] yeah [31.0]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 31.13 
+EndTime: 38.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby I just
+
+[33.63] Baby [33.75]
+[33.79] I [34.0]
+[34.08] just [34.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: don't get it
+
+[34.29] don't [34.58]
+[34.63] get [34.88]
+[34.88] it [35.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Do you enjoy
+
+[36.08] Do [36.25]
+[36.25] you [36.42]
+[36.42] enjoy [37.13]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: being hurt?
+
+[37.13] being [37.5]
+[37.58] hurt? [38.04]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 38.13 
+EndTime: 42.79 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I know you smelled
+
+[38.71] I [38.83]
+[38.88] know [39.04]
+[39.08] you [39.54]
+[39.54] smelled [39.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: the perfume,
+
+[39.79] the [39.96]
+[40.0] perfume, [40.46]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: the make-up on
+
+[41.29] the [41.5]
+[41.5] make-up [41.92]
+[41.92] on [42.13]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: his shirt
+
+[42.17] his [42.38]
+[42.38] shirt [42.67]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 42.79 
+EndTime: 45.5 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You don't believe
+
+[43.67] You [43.88]
+[43.88] don't [44.08]
+[44.08] believe [44.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: his stories
+
+[44.42] his [44.75]
+[44.79] stories [45.33]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 45.5 
+EndTime: 48.29 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You know that
+
+[46.21] You [46.42]
+[46.42] know [46.67]
+[46.67] that [46.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: they're all lies
+
+[46.96] they're [47.42]
+[47.42] all [47.63]
+[47.67] lies [48.13]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 48.29 
+EndTime: 54.04 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Bad as you are,
+
+[48.67] Bad [48.88]
+[48.88] as [49.0]
+[49.04] you [49.21]
+[49.25] are, [49.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you stick around and
+
+[50.17] you [50.33]
+[50.33] stick [50.5]
+[50.5] around [50.92]
+[51.0] and [51.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I just don't know why
+
+[51.33] I [51.5]
+[51.58] just [51.83]
+[51.88] don't [52.13]
+[52.17] know [52.33]
+[52.33] why [52.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: If I was ya man
+
+[53.08] If [53.21]
+[53.21] I [53.25]
+[53.38] was [53.58]
+[53.58] ya [53.71]
+[53.71] man [53.96]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 54.04 
+EndTime: 60.38 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you
+
+[54.5] Baby [54.88]
+[54.88] you [55.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Never worry 'bout
+
+[55.58] Never [55.75]
+[55.79] worry [56.13]
+[56.13] 'bout [56.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: What I do
+
+[56.75] What [57.04]
+[57.04] I [57.08]
+[57.42] do [57.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I'd be coming home
+
+[58.0] I'd [58.21]
+[58.21] be [58.33]
+[58.38] coming [58.67]
+[58.67] home [58.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: back to you
+
+[59.21] back [59.58]
+[59.63] to [59.92]
+[59.96] you [60.29]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 60.38 
+EndTime: 63.0 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every night,
+
+[60.88] Every [61.21]
+[61.25] night, [61.58]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: doin' you right
+
+[61.92] doin' [62.21]
+[62.21] you [62.58]
+[62.67] right [62.92]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 63.0 
+EndTime: 65.37 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You're the type of woman
+
+[63.33] You're [63.5]
+[63.5] the [63.63]
+[63.63] type [63.83]
+[63.83] of [63.96]
+[64.0] woman [64.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: deserves good thangs
+
+[64.33] deserves [64.62]
+[64.62] good [65.0]
+[65.08] thangs [65.25]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 65.37 
+EndTime: 68.04 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Fist full of diamonds
+
+[65.79] Fist [65.92]
+[65.92] full [66.0]
+[66.0] of [66.17]
+[66.21] diamonds [66.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Hand full of rings
+
+[66.96] Hand [67.21]
+[67.25] full [67.38]
+[67.42] of [67.5]
+[67.54] rings [67.92]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 68.04 
+EndTime: 74.21 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you're a star
+
+[68.38] Baby [68.58]
+[68.58] you're [68.75]
+[68.75] a [68.88]
+[68.92] star [69.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I just want to
+
+[69.38] I [69.42]
+[69.58] just [70.04]
+[70.17] want [70.46]
+[70.46] to [70.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: show you you are
+
+[70.75] show [71.17]
+[71.21] you [71.38]
+[71.38] you [71.58]
+[71.63] are [72.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You should let me
+
+[72.04] You [72.33]
+[72.33] should [72.67]
+[72.67] let [72.88]
+[73.0] me [73.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[73.29] love [73.88]
+[73.92] you [74.17]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 74.21 
+EndTime: 81.38 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me be the one to
+
+[74.58] Let [74.83]
+[74.92] me [75.17]
+[75.17] be [75.38]
+[75.42] the [75.71]
+[75.71] one [76.17]
+[76.25] to [76.54]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: give you everything
+
+[77.08] give [77.38]
+[77.38] you [77.67]
+[77.67] everything [78.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you want and need
+
+[79.17] you [79.38]
+[79.42] want [80.08]
+[80.17] and [80.5]
+[80.63] need [81.21]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 81.38 
+EndTime: 91.17 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby good love
+
+[81.96] Baby [82.13]
+[82.17] good [82.5]
+[82.54] love [82.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and protection
+
+[82.83] and [83.08]
+[83.13] protection [84.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Make me your selection
+
+[84.63] Make [84.96]
+[84.96] me [85.21]
+[85.29] your [85.54]
+[85.58] selection [86.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Show you the way
+
+[87.33] Show [87.63]
+[87.63] you [87.92]
+[87.96] the [88.21]
+[88.25] way [88.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love's supposed to be
+
+[88.67] love's [89.17]
+[89.21] supposed [90.0]
+[90.38] to [90.75]
+[90.79] be [91.08]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 91.17 
+EndTime: 102.17 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you should let me
+
+[92.04] Baby [92.38]
+[92.38] you [92.67]
+[92.67] should [92.92]
+[93.0] let [93.21]
+[93.25] me [93.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you, love you,
+
+[93.63] love [94.0]
+[94.0] you, [94.5]
+[94.88] love [95.42]
+[95.46] you, [95.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[96.17] love [96.83]
+[96.92] you [97.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Love you, yeah
+
+[98.0] Love [98.88]
+[98.96] you, [99.79]
+[101.04] yeah [101.92]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 102.17 
+EndTime: 109.04 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Listen, your true beauty's
+
+[103.21] Listen, [103.88]
+[104.67] your [104.88]
+[104.88] true [105.13]
+[105.17] beauty's [105.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: description looks so
+
+[105.71] description [106.42]
+[107.21] looks [107.46]
+[107.46] so [107.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: good that it hurts
+
+[107.67] good [108.13]
+[108.29] that [108.42]
+[108.42] it [108.58]
+[108.63] hurts [108.92]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 109.04 
+EndTime: 113.88 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You're a dime plus
+
+[109.5] You're [109.67]
+[109.67] a [109.71]
+[109.71] dime [110.04]
+[110.04] plus [110.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: ninety-nine and
+
+[110.29] ninety-nine [111.08]
+[111.13] and [111.38]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: it's a shame
+
+[111.38] it's [111.54]
+[111.54] a [111.67]
+[111.71] shame [112.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Don't even know
+
+[112.42] Don't [112.58]
+[112.58] even [112.79]
+[112.79] know [112.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: what you're worth
+
+[113.0] what [113.17]
+[113.21] you're [113.38]
+[113.38] worth [113.79]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 113.88 
+EndTime: 119.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Everywhere you go
+
+[114.83] Everywhere [115.58]
+[115.63] you [116.0]
+[116.04] go [116.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: they stop and stare
+
+[116.58] they [116.75]
+[116.75] stop [116.92]
+[116.96] and [117.13]
+[117.17] stare [117.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cos you're bad
+
+[117.46] 'cos [117.75]
+[117.79] you're [117.96]
+[118.0] bad [118.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and it shows
+
+[118.25] and [118.46]
+[118.46] it [118.58]
+[118.63] shows [119.0]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 119.13 
+EndTime: 124.88 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: From your head
+
+[119.96] From [120.13]
+[120.13] your [120.25]
+[120.25] head [120.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: to your toes
+
+[120.67] to [120.83]
+[120.83] your [121.04]
+[121.04] toes [121.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Out of control,
+
+[121.67] Out [121.92]
+[121.96] of [122.13]
+[122.13] control, [122.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: baby you know
+
+[122.71] baby [123.33]
+[123.38] you [123.58]
+[123.58] know [123.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: If I was ya man
+
+[123.92] If [124.04]
+[124.04] I [124.08]
+[124.25] was [124.42]
+[124.42] ya [124.54]
+[124.58] man [124.79]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 124.88 
+EndTime: 131.33 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you
+
+[125.29] Baby [125.92]
+[125.96] you [126.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Never worry bout
+
+[126.5] Never [126.79]
+[126.79] worry [127.13]
+[127.13] bout [127.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: what I do
+
+[127.71] what [128.04]
+[128.04] I [128.08]
+[128.42] do [128.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I'd be coming home
+
+[129.08] I'd [129.21]
+[129.21] be [129.37]
+[129.37] coming [129.71]
+[129.71] home [130.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: back to you
+
+[130.42] back [130.83]
+[130.92] to [131.04]
+[131.04] you [131.25]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 131.33 
+EndTime: 136.42 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every night
+
+[131.83] Every [132.04]
+[132.08] night [132.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: doin' you right
+
+[132.96] doin' [133.38]
+[133.42] you [133.67]
+[133.67] right [133.88]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You're the type of woman
+
+[134.13] You're [134.29]
+[134.29] the [134.46]
+[134.46] type [134.58]
+[134.63] of [134.75]
+[134.79] woman [135.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: deserves good thangs
+
+[135.38] deserves [135.71]
+[135.79] good [136.08]
+[136.08] thangs [136.38]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 136.42 
+EndTime: 139.04 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Fist full of diamonds
+
+[136.88] Fist [137.04]
+[137.04] full [137.13]
+[137.17] of [137.29]
+[137.29] diamonds [137.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: hand full of rings
+
+[138.0] hand [138.29]
+[138.29] full [138.42]
+[138.42] of [138.58]
+[138.63] rings [138.96]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 139.04 
+EndTime: 145.42 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you're a star
+
+[139.38] Baby [139.63]
+[139.63] you're [139.83]
+[139.83] a [139.92]
+[140.0] star [140.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I just want to
+
+[140.38] I [140.42]
+[140.63] just [141.08]
+[141.21] want [141.54]
+[141.58] to [141.83]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: show you you are
+
+[141.88] show [142.21]
+[142.21] you [142.5]
+[142.5] you [142.71]
+[142.71] are [143.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You should let me
+
+[143.33] You [143.54]
+[143.54] should [143.75]
+[143.75] let [144.0]
+[144.08] me [144.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[144.46] love [145.0]
+[145.04] you [145.33]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 145.42 
+EndTime: 152.42 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me be the one to
+
+[145.71] Let [145.92]
+[146.0] me [146.29]
+[146.33] be [146.54]
+[146.58] the [146.88]
+[146.88] one [147.46]
+[147.54] to [147.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: give you everything
+
+[148.17] give [148.5]
+[148.5] you [148.75]
+[148.75] everything [149.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you want and need
+
+[150.17] you [150.42]
+[150.46] want [151.21]
+[151.29] and [151.58]
+[151.75] need [152.25]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 152.42 
+EndTime: 162.38 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Oh baby good love
+
+[152.83] Oh [152.96]
+[152.96] baby [153.17]
+[153.25] good [153.5]
+[153.54] love [153.83]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and protection
+
+[153.88] and [154.17]
+[154.21] protection [155.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Make me your selection
+
+[155.83] Make [156.17]
+[156.17] me [156.38]
+[156.42] your [156.67]
+[156.71] selection [158.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Show you the way
+
+[158.46] Show [158.67]
+[158.71] you [159.04]
+[159.13] the [159.38]
+[159.42] way [159.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love's supposed to be
+
+[159.63] love's [160.08]
+[160.29] supposed [161.17]
+[161.54] to [161.88]
+[161.92] be [162.21]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 162.38 
+EndTime: 164.96 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby you should let me
+
+[163.17] Baby [163.5]
+[163.54] you [163.79]
+[163.79] should [164.21]
+[164.25] let [164.46]
+[164.54] me [164.88]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 164.96 
+EndTime: 174.63 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You deserve better girl
+
+[165.96] You [166.33]
+[166.38] deserve [167.04]
+[167.13] better [167.79]
+[167.88] girl [168.13]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You know you
+
+[168.21] You [168.38]
+[168.38] know [168.54]
+[168.54] you [169.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: deserve better
+
+[169.13] deserve [169.79]
+[169.83] better [170.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: We should be
+
+[171.04] We [171.29]
+[171.29] should [171.5]
+[171.5] be [171.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: together girl, baby
+
+[171.83] together [173.33]
+[173.54] girl, [173.79]
+[173.88] baby [174.5]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 174.63 
+EndTime: 183.58 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: With me and you
+
+[175.79] With [175.92]
+[175.96] me [176.13]
+[176.13] and [176.29]
+[176.29] you [176.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: it's whatever girl, hey!
+
+[177.0] it's [177.21]
+[177.21] whatever [178.38]
+[178.46] girl, [179.0]
+[179.46] hey! [180.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: So can we make
+
+[180.79] So [181.0]
+[181.04] can [181.17]
+[181.21] we [181.38]
+[181.38] make [181.83]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: this thing ours?
+
+[181.88] this [182.08]
+[182.08] thing [182.33]
+[182.38] ours? [183.46]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 183.58 
+EndTime: 192.83 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You should let me
+
+[183.88] You [184.17]
+[184.17] should [184.42]
+[184.42] let [184.67]
+[184.75] me [185.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[185.0] love [185.5]
+[185.63] you [185.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me be the one to
+
+[186.25] Let [186.46]
+[186.54] me [186.83]
+[186.83] be [187.04]
+[187.17] the [187.46]
+[187.46] one [187.75]
+[188.13] to [188.38]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: give you everything
+
+[188.71] give [189.04]
+[189.04] you [189.33]
+[189.38] everything [190.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you want and need
+
+[190.71] you [191.0]
+[191.38] want [191.83]
+[191.88] and [192.21]
+[192.33] need [192.75]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 192.83 
+EndTime: 202.92 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby good love
+
+[193.54] Baby [193.79]
+[193.83] good [194.13]
+[194.17] love [194.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and protection
+
+[194.5] and [194.79]
+[194.79] protection [195.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Make me your selection
+
+[196.42] Make [196.75]
+[196.75] me [196.96]
+[197.0] your [197.25]
+[197.33] selection [198.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Show you the way
+
+[199.13] Show [199.42]
+[199.42] you [199.75]
+[199.75] the [200.04]
+[200.04] way [200.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love's supposed to be
+
+[200.38] love's [200.71]
+[200.96] supposed [201.75]
+[202.13] to [202.46]
+[202.5] be [202.79]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 202.92 
+EndTime: 213.0 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You should let me
+
+[204.04] You [204.33]
+[204.33] should [204.58]
+[204.63] let [204.88]
+[204.96] me [205.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[205.29] love [205.83]
+[205.92] you [206.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me be the one to
+
+[206.5] Let [206.79]
+[206.92] me [207.17]
+[207.17] be [207.42]
+[207.5] the [207.79]
+[207.79] one [208.17]
+[208.38] to [208.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: give you everything
+
+[209.08] give [209.38]
+[209.38] you [209.67]
+[209.67] everything [210.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you want and need
+
+[211.13] you [211.33]
+[211.63] want [212.13]
+[212.21] and [212.46]
+[212.58] need [212.92]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 213.0 
+EndTime: 223.29 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby good love
+
+[213.79] Baby [214.08]
+[214.13] good [214.46]
+[214.46] love [214.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and protection
+
+[214.79] and [215.08]
+[215.13] protection [216.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Make me your selection
+
+[216.67] Make [217.0]
+[217.0] me [217.25]
+[217.33] your [217.58]
+[217.58] selection [219.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Show you the way
+
+[219.38] Show [219.67]
+[219.67] you [220.0]
+[220.0] the [220.29]
+[220.29] way [220.58]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love's supposed to be
+
+[220.58] love's [220.92]
+[221.21] supposed [222.0]
+[222.46] to [222.75]
+[222.79] be [223.17]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 223.29 
+EndTime: 233.42 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You should let me
+
+[224.38] You [224.67]
+[224.67] should [224.96]
+[225.0] let [225.21]
+[225.29] me [225.58]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love you
+
+[225.63] love [225.96]
+[226.21] you [226.46]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me be the one to
+
+[226.83] Let [227.08]
+[227.17] me [227.5]
+[227.54] be [227.75]
+[227.83] the [228.13]
+[228.17] one [228.75]
+[228.83] to [229.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: give you everything
+
+[229.42] give [229.71]
+[229.71] you [230.0]
+[230.0] everything [231.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you want and need
+
+[231.38] you [231.63]
+[231.96] want [232.54]
+[232.58] and [232.83]
+[232.92] need [233.33]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 233.42 
+EndTime: 243.79 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Baby good love
+
+[234.13] Baby [234.38]
+[234.42] good [234.71]
+[234.75] love [235.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and protection
+
+[235.13] and [235.38]
+[235.42] protection [236.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Make me your selection
+
+[237.04] Make [237.25]
+[237.29] me [237.54]
+[237.63] your [237.92]
+[237.92] selection [239.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Show you the way
+
+[239.67] Show [239.96]
+[239.96] you [240.21]
+[240.25] the [240.5]
+[240.5] way [240.88]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: love's supposed to be
+
+[240.92] love's [241.21]
+[241.5] supposed [242.42]
+[242.75] to [243.08]
+[243.13] be [243.58]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 243.79 
+EndTime: 252.79 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Let me love you
+
+[245.54] Let [245.79]
+[245.79] me [246.0]
+[246.0] love [246.54]
+[246.63] you [246.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: That's all you need baby
+
+[249.54] That's [249.71]
+[249.71] all [249.88]
+[249.88] you [250.04]
+[250.04] need [250.29]
+[250.29] baby [250.67]
+
+
+
+********************TITLE********************
+PageType: Title
+StartTime: 252.79 
+EndTime: 283.33 
