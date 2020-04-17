@@ -8,6 +8,14 @@
   <script type='text/javascript' src="popcorn-complete.min.js"></script>
   <link rel="stylesheet" href="style.css">
   <script type='text/javascript' defer>
+
+// this is the code that needs to be fixed
+// the function wordCallback(t) has nothing to do with code but this is used in original code on this website
+// Check out an implementation of the same on https://www.sunflystreaming.com/
+// You can register for a free account and once you sign in, 
+// you can see how they have implemented it to look exactly like the video
+// you can search for the same song "Let me Love You" by Mario and view how it displays
+
 function wordCallback(t){
 	var tgt = $('#'+t);
 	var wth = parseFloat(tgt.width());
@@ -21,6 +29,8 @@ function wordCallback(t){
 		$("#new"+t).animate({width:wth+'px'}, time);
 	}
 }
+
+// the code starts from here
 
 Array.prototype.clean = function(deleteValue) {
 	for (var i = 0; i < this.length; i++) {
@@ -273,6 +283,7 @@ function parseLyric(text) {
 	$('#text').html('');
 	syncLyrics();
 
+// the real problem starts here xD
 
 	$(document).ready(function(){
 		
@@ -300,29 +311,32 @@ function parseLyric(text) {
 		if($(that).hasClass("completed") || $(that).hasClass("under_progress")) return;
 		$(that).addClass("under_progress voice_0");
 		var chars = $(that.after()).html();
-		var aslChezz = $(that);
-		var mywidth = aslChezz.width();
-		var myText = $(that).text();
-		var lft = aslChezz.offset().left;
+		var selectedSpan = $(that);
+		var selectedSpanWidth = selectedSpan.width();
+		var selectedSpanText = $(that).text();
 		var time_allowed = 400; // Adjust this to your needs, it's time allowed one word to shape-shift, 400 milliseconds divided by length of characters.
 		var delay = time_allowed / chars.length;
-				var wth = parseFloat(aslChezz.width());
-		var tgt = aslChezz[0].offsetLeft;	
-				var time = (parseFloat(aslChezz.attr('data-end'))-parseFloat(aslChezz.attr('data-start')))*1000;
-		var ali = $("#new"+aslChezz);
-		var aliWidth = parseFloat(ali.width());	
+		var wth = parseFloat(selectedSpan.width());
+		var selectedSpanLeft = selectedSpan[0].offsetLeft;	
+		var time = (parseFloat(selectedSpan.attr('data-end'))-parseFloat(selectedSpan.attr('data-start')))*1000;
+		// time here is null right now, you can check by console.log this needs to be fixed too
+		var newSpan = $("#new"+selectedSpan);
 
-		var hamza ; 
 		var i = 0;
 		var inter = setInterval(function(){
 			if(i<=chars.length-1){
 				
-				
-				if(aslChezz.hasClass('word')){
+				// so the real problem is here
+				// what we need to do is:
+				// we need to access the width of new created span "in_shape" and
+				// we need to animate the width from 0px to selectedspanwidth
+				// and also we need to animate it within possible time "time" which is null right now
+				// if you need more help to undertand the code you can whatsapp me at +923117612904 Thanks
+				if(selectedSpan.hasClass('word')){
 				$('.newword').remove();
-				var in_shape = '<span style="width:0px;position:fixed;white-space: nowrap;word-break: keep-all;left:'+tgt+'px;overflow: hidden" id="new'+aslChezz[0].id+'" class="selected newword">'+myText+'</span>';
+				var in_shape = '<span style="width:0px;position:fixed;white-space: nowrap;word-break: keep-all;left:'+selectedSpanLeft+'px;overflow: hidden" id="new'+selectedSpan[0].id+'" class="selected newword">'+selectedSpanText+'</span>';
 				$(that).after(in_shape);
-				$(".selected newword").animate({width:mywidth+'px'}, time);	
+				$(".selected newword").animate({width:selectedSpanWidth+'px'}, time);	
 	}
 
 	i++;
